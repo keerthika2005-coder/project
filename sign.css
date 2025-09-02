@@ -1,0 +1,31 @@
+img{
+     width: 100px;
+    height: 100px;
+    margin: 0;
+}
+.head{
+    font-size: small;
+}
+.input{
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+}
+#k{
+    color: rgb(12, 168, 230);
+    cursor: pointer;
+}
+#k:hover{
+    color: blue;
+}
+.button button{
+    background-color:blue;
+    color: white;
+    border-radius: 30px;
+    width: 200px;
+    height: 50px;
+}
+#e{
+    color: rgb(12, 168, 230);
+    cursor: pointer;
+}
